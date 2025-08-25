@@ -14,3 +14,9 @@ def primos_entre(a,b):
     return lista_primos
 
 print(primos_entre(5, 20))
+
+def print_loquetegusta():
+    return print("pene")
+
+while True:
+    print_loquetegusta()
